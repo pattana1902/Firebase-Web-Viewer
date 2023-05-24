@@ -1,0 +1,38 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+
+  margin-top: 20px;
+}
+
+table {
+  border-collapse: collapse;
+
+  width: 100%;
+
+  margin-top: 20px;
+}
+
+th,
+td {
+  padding: 8px;
+
+  text-align: left;
+
+  border-bottom: 1px solid #ddd;
+}
+
+th {
+  background-color: #f2f2f2;
+
+  font-weight: bold;
+}
+
+img {
+  max-width: 100px;
+
+  max-height: 100px;
+}
